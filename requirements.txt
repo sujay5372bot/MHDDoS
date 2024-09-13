@@ -8,3 +8,8 @@ icmplib>=2.1.1
 pyasn1==0.4.8
 pyroxy @ git+https://github.com/MatrixTM/PyRoxy.git
 yarl>=1.7.2 
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
